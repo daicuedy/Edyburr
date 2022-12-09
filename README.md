@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+### <div align="center">👋 Hey! Edy here.</div>  
   
 
-### <div align="center">I'm Edy, a passionate Graphic Designer ✏️ with a keen eye for details!</div>  
+I'm a passionate Graphic Designer ✏️ with a keen eye for details!  
   
 
 - 🔭 I’m currently working on my portfolio 😎  
@@ -72,7 +70,6 @@
 
 <br />
 
-----
 <!---
 Edyburr/Edyburr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
