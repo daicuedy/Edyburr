@@ -1,5 +1,3 @@
-
-## Intro  
 ### <div align="center">👋 Hey! Edy here.</div>  
   
 
@@ -21,7 +19,9 @@ I'm a passionate Graphic Designer ✏️ with a keen eye for details!
 
 <br/>  
 
-<details><summary> My Skill Set </summary><table><tr><td valign="top" width="50%">
+
+## My Skill Set  
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -46,7 +46,7 @@ I'm a passionate Graphic Designer ✏️ with a keen eye for details!
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td></tr></table></details>  
+</td></tr></table>  
 
 <br/>  
 
@@ -73,7 +73,7 @@ I'm a passionate Graphic Designer ✏️ with a keen eye for details!
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!---
 Edyburr/Edyburr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
