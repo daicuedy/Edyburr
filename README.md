@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Eternum Studios, and my book<br>🌱 I’m currently learning HTML, CSS and C++<br>⚡ Fun fact: I like polar bears! (a lot)
+🔭 Currently writing a book<br>🌱 I’m currently learning HTML, CSS and C++<br>⚡ Fun fact: I like polar bears! (a lot)
 
 
 ## 🌐 Socials:
